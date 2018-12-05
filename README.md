@@ -1,4 +1,4 @@
-# PUBG Mobile PC version (Tencent emulation) mouse helper
+# VERSION PUBG PC
 Auto fire single shot weapons in PUBG Mobile PC version with recoil compensation.
 <p>
   The primary goal and functionality of the program is quite simple but here are the major highlights :
