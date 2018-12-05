@@ -18,15 +18,16 @@ Auto fire single shot weapons in PUBG Mobile PC version with recoil compensation
 
 <hr/>
 <p>
-  <img src="https://github.com/globalpolicy/pubgmobilemousehelper/blob/master/screenshot.png">
+  <img src="https://github.com/TheKingR09/pubgmobilemousehelper/blob/master/screenshot.png">
   </p>
   <hr/>
 The original C code that I experimented with is available 
-<a href="https://gist.github.com/globalpolicy/5c9f3bc071412e646524c1e552416b5d">here</a><br/><br/>
+<a href="https://gist.github.com/TheKingR09/5c9f3bc071412e646524c1e552416b5d">here</a><br/><br/>
 My <a href="http://c0dew0rth.blogspot.com/2018/05/pubg-mobile-mouse-helper.html">blog post</a> for the program.
 <br/><br/>
 
-Download the program <a href="https://github.com/globalpolicy/pubgmobilemousehelper/raw/master/PUBG%20Mouse%20Helper/PUBG%20Mouse%20Helper/bin/Release/PUBG%20Mouse%20Helper.exe">here</a>
+Download File <a href="https://github.com/TheKingR09/pubgmobilemousehelper/raw/master/PUBG%20Mouse%20Helper/PUBG%20Mouse%20Helper/bin/Release/PUBG%20Mouse%20Helper.exe">here</a>
   <br/><br/>
-  Quick Note : .Net Framework 4.6.1
+  Q-Note : .Net Framework 4.6.1
   
+Repost: Rax
